@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    font-family: 'poppins','sans-serif';
+}
+.profile{
+    width: 300px;
+    border-radius: 75%;
+    float: right;
+    margin: 15px;
+    margin-right: 100px;
+}

@@ -32,7 +32,7 @@
     height: 45px;
     border: 1px solid #dbdbdb;
     border-radius: 4px;
-    padding-left: 7rem;
+    padding-left: .7rem;
     outline: none;
 }
 ::placeholder{
