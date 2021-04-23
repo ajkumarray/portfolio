@@ -1,11 +1,12 @@
 *{
+    background-color: #f8f5f1;
     box-sizing: border-box;
     font-family: 'poppins','sans-serif';
 }
 .profile{
     width: 300px;
     border-radius: 75%;
-    float: right;
+    float: left;
     margin: 15px;
     margin-right: 100px;
 }
