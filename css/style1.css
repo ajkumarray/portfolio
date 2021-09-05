@@ -117,10 +117,15 @@ nav {
 
 .intro__img {
   box-shadow: var(--bs);
+  display: inline-block;
+  position: absolute;
+  right: 30px;
 }
 
 .section__subtitle--intro {
   display: inline-block;
+  position: absolute;
+  right: 50px;
 }
 
 @media (mib-width: 600px) {
